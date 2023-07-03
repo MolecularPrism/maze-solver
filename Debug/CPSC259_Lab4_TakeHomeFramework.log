@@ -1,0 +1,7 @@
+﻿  mazesolver.c
+C:\Users\leest\OneDrive\Documents\School\CPSC 259 Marcus\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(64,21): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'FILE *'
+C:\Users\leest\OneDrive\Documents\School\CPSC 259 Marcus\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(301,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leest\OneDrive\Documents\School\CPSC 259 Marcus\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(327,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leest\OneDrive\Documents\School\CPSC 259 Marcus\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(337,21): warning C4098: 'construct_shortest_path_info': 'void' function returning a value
+C:\Users\leest\OneDrive\Documents\School\CPSC 259 Marcus\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(365,21): warning C4018: '<': signed/unsigned mismatch
+  CPSC259_Lab4_TakeHomeFramework.vcxproj -> C:\Users\leest\OneDrive\Documents\School\CPSC 259 Marcus\CPSC259_Lab4_TakeHomeFramework\Debug\CPSC259_Lab4_TakeHomeFramework.exe
